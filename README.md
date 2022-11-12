@@ -1,2 +1,2 @@
 # file
-json_file
+This is my own point cloud data
